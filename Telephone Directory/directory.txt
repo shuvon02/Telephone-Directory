@@ -1,0 +1,45 @@
+Name : sagor sarker
+Mobile : 01721124899
+E-mail : 69595
+Date of birth : 02-02-2000
+Category : 95
+Name : Akash Islam
+Mobile : 01863399176
+E-mail : akash@gmail.com
+Date oF birth : 02-06-2000
+Category : Friend
+Name : Jahid Raju
+Mobile : 01721124899
+E-mail : raju@gmail.com
+Date of birth : 02-02-2000
+Category : friend
+Name : Nilufa Nila
+Mobile : 0123
+E-mail : nila@gmail.com
+Date oF birth : 23-07-2000
+Category : friend
+Name : Mahfuz Reza
+Mobile : 01722410844
+E-mail : mahfuz@mbstu.ac.bd
+Date oF birth : 01-07-1987
+Category : Teacher
+Name : faruk 
+Mobile : 0142454782
+E-mail : faruk@gmail.com
+Date oF birth : 02-02-2000
+Category : friend
+Name : sultan ahammad
+Mobile : 01734095495
+E-mail : sultan.ahammad36@gmail.com
+Date oF birth : 24-10-1989
+Category : fgshdgf 
+Name : niloy 
+Mobile : 01234576824
+E-mail : 
+Date oF birth : 
+Category : 
+Name : nazmul 
+Mobile : 0124579645
+E-mail : 
+Date oF birth : 
+Category : 
